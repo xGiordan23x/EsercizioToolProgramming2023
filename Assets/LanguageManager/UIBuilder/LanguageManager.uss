@@ -1,0 +1,62 @@
+.IDsTextField > .unity-base-field__label {
+    max-width: none;
+    margin-right: -100px;
+    padding-right: -94px;
+    justify-content: flex-start;
+    align-self: center;
+    font-size: 14px;
+    margin-left: 0;
+    padding-bottom: 0;
+    min-width: 173px;
+    -unity-text-align: upper-left;
+    white-space: normal;
+    text-overflow: clip;
+    -unity-font-style: normal;
+}
+
+.resetAddVisual {
+    flex-direction: row;
+    align-self: center;
+}
+
+.ContentInputField > .unity-base-field__input {
+    max-width: none;
+    margin-right: 0;
+    padding-right: 0;
+    justify-content: flex-start;
+    align-self: center;
+    font-size: 14px;
+    margin-left: 0;
+    padding-bottom: 0;
+    min-width: 150px;
+    -unity-text-align: middle-center;
+    white-space: normal;
+    text-overflow: clip;
+    -unity-font-style: normal;
+    padding-left: 0;
+    align-items: auto;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.VerticalTextFields {
+    flex-direction: row;
+    align-self: flex-start;
+    margin-top: 10px;
+}
+
+.StringTextField > .unity-base-field__label {
+    max-width: none;
+    margin-right: -100px;
+    padding-right: -94px;
+    justify-content: flex-start;
+    align-self: center;
+    font-size: 14px;
+    margin-left: 50px;
+    padding-bottom: 0;
+    min-width: 173px;
+    -unity-text-align: upper-left;
+    white-space: normal;
+    text-overflow: clip;
+    -unity-font-style: normal;
+}
